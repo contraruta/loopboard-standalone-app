@@ -119,4 +119,3 @@ Typically, this process takes 30-90 days depending on complexity.
 
 ---
 
-**INVICTUS** – Security and privacy for neurodivergent minds.

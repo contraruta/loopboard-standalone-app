@@ -14,7 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - FSPP (Flow-State Preservation Protocol) with disruption budgets
 - CLDAS (Cognitive Loop Detection and Amplification System)
 - Interactive demonstrations for all core subsystems
-- Patent showcase with all 12 claims
 - Comprehensive documentation and guides
 
 ### Changed
@@ -98,4 +97,3 @@ Example:
 
 ---
 
-**INVICTUS** – Tracking changes for neurodivergent minds.

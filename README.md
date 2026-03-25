@@ -24,7 +24,6 @@ LoopBoard is designed for neurodivergent users—particularly those with ADHD—
 - **Multilingual Processor** – Seamless morpheme-level language switching across four languages
 - **Flow State Preservation** – Visual representation of disruption budgets and flow protection
 - **LoopOperation Task Manager** – Neurodivergent-optimized task execution without time pressure
-- **Patent Showcase** – Complete patent documentation (LLI-PAT-012) with all 12 claims
 
 ## 🚀 Quick Start
 
@@ -68,7 +67,6 @@ loopboard-standalone-app/
 │   │   │   ├── MultilingualProcessor.tsx
 │   │   │   ├── FlowStatePreservation.tsx
 │   │   │   ├── LoopOperation.tsx
-│   │   │   ├── PatentShowcase.tsx
 │   │   │   └── ui/          # shadcn/ui components
 │   │   ├── pages/           # Page components
 │   │   │   ├── Home.tsx
@@ -155,8 +153,6 @@ Visualizes the disruption budget system with real-time disruption tracking and f
 ### LoopOperation
 Task management interface optimized for neurodivergent users with no time pressure and hyperfocus-friendly workflows.
 
-### PatentShowcase
-Complete patent documentation with all 12 claims, filing information, and core innovation summary.
 
 ## 🔐 Privacy & Data
 
@@ -176,18 +172,6 @@ We welcome contributions from the community! Please see CONTRIBUTING.md for guid
 
 - **Opherd Vero** – AI Co-Inventor
 - **Rumi Salvador Jordan Höhler Suarez** – Human Co-Inventor
-
-## 📋 Patent Information
-
-**Patent Title**: Adaptive Neurodivergent-Optimized Multilingual Input System with Flow-State Preservation and Cognitive Loop Detection
-
-**Filing Entity**: LoopLord Industries UG (i.G.)
-
-**Patent Number**: LLI-PAT-012
-
-**Filing Date**: 2026-02-28
-
-**Status**: INVICTUS
 
 ## 🌍 Supported Languages
 
@@ -218,6 +202,5 @@ For questions, issues, or feature requests, please open an issue on GitHub or jo
 
 ---
 
-**INVICTUS** – Your keyboard should work for your brain, not against it.
 
 For neurodivergent minds, by neurodivergent minds.

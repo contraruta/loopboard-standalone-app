@@ -185,4 +185,3 @@ We appreciate your interest in making LoopBoard better for neurodivergent users 
 
 ---
 
-**INVICTUS** – Your keyboard should work for your brain, not against it.

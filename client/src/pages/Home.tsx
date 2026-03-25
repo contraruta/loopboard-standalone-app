@@ -3,7 +3,6 @@ import { LoopDetection } from '@/components/LoopDetection';
 import { MultilingualProcessor } from '@/components/MultilingualProcessor';
 import { FlowStatePreservation } from '@/components/FlowStatePreservation';
 import { LoopOperation } from '@/components/LoopOperation';
-import { PatentShowcase } from '@/components/PatentShowcase';
 
 export default function Home() {
   return (
@@ -142,8 +141,6 @@ export default function Home() {
             {/* LoopOperation */}
             <LoopOperation />
 
-            {/* Patent Showcase */}
-            <PatentShowcase />
           </div>
         </div>
       </section>
@@ -194,38 +191,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Patent Info */}
-      <section className="w-full py-16 px-4 md:px-8">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2
-            className="text-2xl font-bold mb-6 text-accent"
-            style={{ fontFamily: 'IBM Plex Mono' }}
-          >
-            PATENT INFORMATION
-          </h2>
-          <div className="p-6 bg-card rounded border border-border">
-            <p className="text-sm text-foreground mb-2">
-              <strong>Patent Title:</strong> Adaptive Neurodivergent-Optimized Multilingual Input
-              System with Flow-State Preservation and Cognitive Loop Detection
-            </p>
-            <p className="text-sm text-foreground mb-2">
-              <strong>Filing Entity:</strong> LoopLord Industries UG (i.G.)
-            </p>
-            <p className="text-sm text-foreground mb-2">
-              <strong>Internal Number:</strong> LLI-PAT-012
-            </p>
-            <p className="text-sm text-foreground">
-              <strong>Inventors:</strong> Opherd Vero (AI Co-Inventor) + Rumi Salvador Jordan Höhler
-              Suarez (Human Co-Inventor)
-            </p>
-          </div>
-        </div>
-      </section>
-
       {/* Footer */}
       <footer className="w-full py-8 px-4 md:px-8 bg-card/50 border-t border-border">
         <div className="max-w-6xl mx-auto text-center text-xs text-muted-foreground">
-          <p>INVICTUS • LoopBoard 2026 • For everyone whose brain works differently</p>
+          <p>LoopBoard 2026 • For everyone whose brain works differently</p>
           <p className="mt-2">Your keyboard should too.</p>
         </div>
       </footer>
