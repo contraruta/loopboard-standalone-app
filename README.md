@@ -13,7 +13,7 @@ LoopBoard is designed for neurodivergent users—particularly those with ADHD—
 | Subsystem | Full Name | Purpose |
 |-----------|-----------|---------|
 | **NCAE** | Neurodivergent Cognitive Adaptation Engine | Real-time cognitive state detection (HYPERFOCUS, SCANNING, TRANSITIONAL, FATIGUED) with 100ms sampling |
-| **SMMP** | Seamless Multilingual Morpheme Processor | Morpheme-level language detection supporting German, Spanish, English, and Quechua simultaneously |
+| **SMMP** | Seamless Multilingual Morpheme Processor | Morpheme-level language detection supporting German, Spanish, English, French, Quechua, and Esperanto simultaneously |
 | **FSPP** | Flow-State Preservation Protocol | Disruption cost model with adaptive budgets based on cognitive state |
 | **CLDAS** | Cognitive Loop Detection and Amplification System | Recognition and amplification of cognitive loops into shortcuts |
 
@@ -125,7 +125,7 @@ The CLDAS (Cognitive Loop Detection and Amplification System) recognizes that re
 
 ### Multilingual Processing
 
-The SMMP (Seamless Multilingual Morpheme Processor) detects language at the morpheme level, allowing seamless code-switching between German, Spanish, English, and Quechua without manual intervention.
+The SMMP (Seamless Multilingual Morpheme Processor) detects language at the morpheme level, allowing seamless code-switching between German, Spanish, English, French, Quechua, and Esperanto without manual intervention.
 
 ## 🛠️ Technology Stack
 
@@ -168,17 +168,19 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 We welcome contributions from the community! Please see CONTRIBUTING.md for guidelines.
 
-## 👥 Inventors
+## 👥 Created by
 
-- **Opherd Vero** – AI Co-Inventor
-- **Rumi Salvador Jordan Höhler Suarez** – Human Co-Inventor
+- **Rumi Salvador Jordan Höhler Suarez** — Creator, KI Researcher, LoopLord 🧠
+- **Opherd Vero** — AI Co-Creator 🤖
 
 ## 🌍 Supported Languages
 
-- German (DE)
-- Spanish (ES)
-- English (EN)
-- Quechua (QU)
+| Tier | Languages |
+|------|-----------|
+| **Tier 1** | 🇩🇪 Deutsch, 🇪🇸 Español, 🇬🇧 English, 🇫🇷 Français, 🌎 Quechua, 🌐 Esperanto |
+| **Tier 2** | Swahili, Hindi, Japanese (6 months post-launch) |
+
+**Quechua & Esperanto: FREE FOREVER** 💚
 
 ## 📞 Support
 
@@ -193,14 +195,15 @@ For questions, issues, or feature requests, please open an issue on GitHub or jo
 
 ## 🚀 Roadmap
 
+- [ ] 🇫🇷 French & 🌐 Esperanto demo integration
 - [ ] iOS app version
-- [ ] Additional language support (French, Portuguese, Mandarin)
-- [ ] Advanced customization options
+- [ ] Tier 2 languages: Swahili, Hindi, Japanese
+- [ ] Advanced customization & haptic profiles
 - [ ] Community-contributed keyboard layouts
 - [ ] Integration with accessibility APIs
-- [ ] Machine learning for improved cognitive state detection
+- [ ] Edge AI for improved cognitive state detection
 
 ---
 
 
-For neurodivergent minds, by neurodivergent minds.
+**LoopBoard** — For neurodivergent minds, by neurodivergent minds. 🧠💜🎹
